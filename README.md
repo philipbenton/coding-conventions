@@ -5,10 +5,10 @@ Ensuring consistency between team members and the projects they work on is a key
 
 The documents contained within this repository set out the conventions we use at [It's Good Practice](http://www.itsgoodpractice.com) to write, maintain, and deploy code.
 
-It's a living repo, updating and growing as we do.
+It's a living repository, updating and growing as we do.
 
 ## Table of Documents
 
-1. SCSS
+1. [SCSS](https://github.com/philipbenton/coding-conventions/blob/master/SCSS.md)
 2. CSS
-3. Index.html
+3. Index
