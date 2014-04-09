@@ -10,5 +10,5 @@ It's a living repository, updating and growing as we do.
 ## Table of Documents
 
 1. [SCSS](https://github.com/philipbenton/coding-conventions/blob/master/SCSS.md)
-2. CSS
-3. Index
+2. [CSS](https://github.com/philipbenton/coding-conventions/blob/master/CSS.md)
+3. [Index](https://github.com/philipbenton/coding-conventions/blob/master/INDEX.md)
