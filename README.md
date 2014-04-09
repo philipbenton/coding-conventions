@@ -12,3 +12,4 @@ It's a living repository, updating and growing as we do.
 1. [SCSS](https://github.com/philipbenton/coding-conventions/blob/master/SCSS.md)
 2. [CSS](https://github.com/philipbenton/coding-conventions/blob/master/CSS.md)
 3. [Index](https://github.com/philipbenton/coding-conventions/blob/master/INDEX.md)
+4. [Version Control](https://github.com/philipbenton/coding-conventions/blob/master/VERSION CONTROL.md)
