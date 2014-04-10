@@ -3,7 +3,7 @@ Coding Conventions
 
 Ensuring consistency between team members and the projects they work on is a key part of our process. At it's most basic, it enables team members to _pick up_ where another left off as well as making for maintainable, scalable code.
 
-The documents contained within this repository set out the conventions we use at [It's Good Practice](http://www.itsgoodpractice.com) to write, maintain, and deploy code.
+The documents contained within this repository set out the conventions we use at [It's Good Practice](http://www.itsgoodpractice.com) to write, maintain, and deploy code. The ideas documented are a mixture of our own as well as ideas taken from others, see [Derived From](#derived-from) below.
 
 It's a living repository, updating and growing as we do.
 
@@ -17,3 +17,7 @@ It's a living repository, updating and growing as we do.
 6. [Javascript](https://github.com/philipbenton/coding-conventions/blob/master/JAVASCRIPT.md)
 7. [PHP](https://github.com/philipbenton/coding-conventions/blob/master/PHP.md)
 8. [WordPress](https://github.com/philipbenton/coding-conventions/blob/master/WORDPRESS.md)
+
+## Derived From
+
+...
