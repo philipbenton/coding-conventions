@@ -3,7 +3,7 @@ Coding Conventions
 
 Consistency between team members and the projects they work on is a key part of our process. At it's most basic, it enables team members to _pick up_ where another left off as well as making for maintainable, scalable code.
 
-The documents contained within this repository set out the conventions we use at [It's Good Practice](http://www.itsgoodpractice.com) to write, maintain, and deploy code. The ideas documented are a mixture of our own as well as ideas taken from others, see [Derived From](#derived-from) below.
+The documents contained within this repository set out the conventions we use at [It's Good Practice](http://www.itsgoodpractice.com) to write, maintain, and deploy code.
 
 The ideas contained within each document are a mixture of our own, as well as ideas derived from other documents which outline conventions for writing code. Each document contains a _Derived From_ section containing links to such resources.
 
