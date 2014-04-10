@@ -5,6 +5,8 @@ Ensuring consistency between team members and the projects they work on is a key
 
 The documents contained within this repository set out the conventions we use at [It's Good Practice](http://www.itsgoodpractice.com) to write, maintain, and deploy code. The ideas documented are a mixture of our own as well as ideas taken from others, see [Derived From](#derived-from) below.
 
+The ideas contained within each document are a mixture of our own, as well as ideas derived from other documents which outline conventions for writing code. Each document contains a _Derived From_ section containing links to such resources.
+
 It's a living repository, updating and growing as we do.
 
 ## Table of Documents
@@ -17,7 +19,3 @@ It's a living repository, updating and growing as we do.
 6. [Javascript](https://github.com/philipbenton/coding-conventions/blob/master/JAVASCRIPT.md)
 7. [PHP](https://github.com/philipbenton/coding-conventions/blob/master/PHP.md)
 8. [WordPress](https://github.com/philipbenton/coding-conventions/blob/master/WORDPRESS.md)
-
-## Derived From
-
-...
