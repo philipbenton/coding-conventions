@@ -61,14 +61,19 @@ Example:
 
 Selectors should never be qualified; we should never write for example `ul.nav{}` rather just `.nav`. Qualifying selectors decreases selector performance, inhibits the potential for reusing a class on a different type of element and it increases the selector's specificity.
 
-However, where possible, it is wise to communicate to the next developer(s) where you intend a class to be used. As an example `.product-page` sounds as though it would be used on a high-level containers, perhaps the `html` or `body` element, but with `.product-page` alone it is impossible to tell.
+However, where possible, it is wise to communicate to the next developer(s) where you intend a class to be used. As an example `.product-page` sounds as though it would be used on a high-level container, perhaps the `html` or `body` element, but with `.product-page` alone it is impossible to tell.
 
 By commenting out the leading type selector we can communicate where we wish to have this class applied:
 
 ```css
-/*html*/.product-page{}
+/*html*/.product-page {}
 ```
 
+or, where more than one potential type selector is applicable:
+
+```css
+/*html, body*/.product-page {}
+```
 
 ## SASS/SCSS
 
