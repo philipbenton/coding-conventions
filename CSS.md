@@ -7,12 +7,12 @@ This document outlines the conventions we use at [It's Good Practice](http://www
 
 1. General Principles
 2. Whitespace
-3. Comments
-  * Selectors
+3. [Comments](#comments)
+  * [Selectors](#selectors)
   * Tags
   * Todo's
 4. Format
-5. SASS/SCSS
+5. [SASS/SCSS](#sass-scss)
 6. Minification
 7. Practice Example
 8. Derived From
@@ -57,6 +57,7 @@ Example:
 /* Basic comment */
 ```
 
+<a name="selectors"></a>
 ### Selectors
 
 Selectors should never be qualified; we should never write for example `ul.nav{}` rather just `.nav`. Qualifying selectors decreases selector performance, inhibits the potential for reusing a class on a different type of element and it increases the selector's specificity.
@@ -75,6 +76,7 @@ or, where more than one potential type selector is applicable:
 /*html, body*/.product-page {}
 ```
 
+<a name="sass-scss"></a>
 ## SASS/SCSS
 
 **Note:**
