@@ -76,6 +76,8 @@ or, where more than one potential type selector is applicable:
 /*html, body*/.product-page {}
 ```
 
+It is now clear where we intend to use this class without any of the drawbacks.
+
 <a name="sass-scss"></a>
 ## SASS/SCSS
 
