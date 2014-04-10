@@ -11,11 +11,11 @@ This document outlines the conventions we use at [It's Good Practice](http://www
   * Selectors
   * Tags
   * Todo's
-  *
 4. Format
 5. SASS/SCSS
-6. Practice Example
-7. Derived From
+6. Minification
+7. Practice Example
+8. Derived From
 
 ## 1. General Principles
 
@@ -59,3 +59,12 @@ Example:
 
 ### Selectors
 
+
+
+## SASS/SCSS
+
+**Note:**
+
+_The principles outlined in this document are adhered to on the few occasions when **NOT** using SASS/SCSS to pre-compile our CSS code._
+
+However, when writing code in SASS/SCSS many of the principles outlined in this document will cross over and be similar, see the [SCSS document here](https://github.com/philipbenton/coding-conventions/blob/master/SCSS.md).
