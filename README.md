@@ -17,6 +17,4 @@ It's a living repository, updating and growing as we do.
 4. [Version Control](https://github.com/philipbenton/coding-conventions/blob/master/VERSION CONTROL.md)
 5. [Deployment](https://github.com/philipbenton/coding-conventions/blob/master/DEPLOYMENT.md)
 6. [Javascript](https://github.com/philipbenton/coding-conventions/blob/master/JAVASCRIPT.md)
-7. [PHP](https://github.com/philipbenton/coding-conventions/blob/master/PHP.md)
-8. [WordPress](https://github.com/philipbenton/coding-conventions/blob/master/WORDPRESS.md)
-9. [Backup](https://github.com/philipbenton/coding-conventions/blob/master/BACKUP.md)
+7. [Backup](https://github.com/philipbenton/coding-conventions/blob/master/BACKUP.md)
